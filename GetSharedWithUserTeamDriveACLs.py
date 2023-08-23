@@ -56,10 +56,10 @@ ALT_FILE_NAME = 'title'
 
 # Substitute your specific user(s) in the list below, e.g., USER_LIST = ['user1@domain.com',] USER_LIST = ['user1@domain.com', 'user2@domain.com',]
 # The list should be empty if you're only specifiying domains in DOMAIN_LIST, e.g. USER_LIST = []
-USER_LIST = ['user1@domain.com',]
+USER_LIST = ['ashok.shenoy@salesforce.com','sajid.nadeem@salesforce.com','svoinorosky@salesforce.com','kagnihotri@salesforce.com','amul.shah@salesforce.com','wbalbal@salesforce.com','orebahi@salesforce.com','naoussar@salesforce.com','kashif.ali@salesforce.com','kaityaich@salesforce.com','cbentaleb@salesforce.com','devang.shah@salesforce.com','ozaineb@salesforce.com','znaji@salesforce.com','mmiras@salesforce.com','kevin.johnson@salesforce.com','rhoulton@salesforce.com','samantha.partridge@salesforce.com','andrew.patterson@salesforce.com']
 # Substitute your specific domain(s) in the list below if you want all users in the domain, e.g., DOMAIN_LIST = ['domain.com',] DOMAIN_LIST = ['domain1.com', 'domain2.com',]
 # The list should be empty if you're only specifiying users in USER_LIST, e.g. DOMAIN__LIST = []
-DOMAIN_LIST = ['domain.com',]
+DOMAIN_LIST = []
 
 # Specify whether only non-inherited ACLs should be output; inherited ACLs can't be deleted
 NON_INHERITED_ACLS_ONLY = True
